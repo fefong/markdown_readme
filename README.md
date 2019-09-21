@@ -55,9 +55,13 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 >			  * Item 3.1.1;
 
 # Link
-[Google](www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
 
-[Youtube](www.youtube.com) - _Enjoy videos and music you love, upload original content, and share it with friends, family, and the world on YouTube._
+[Youtube](https://www.youtube.com) - _Enjoy videos and music you love, upload original content, and share it with friends, family, and the world on YouTube._
+
+		[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+
+
 
 # Blockquote
 > Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny
