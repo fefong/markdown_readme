@@ -85,11 +85,6 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 
     **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.**
 
-### Underline
-<u>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.</u>
-
-    <u>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.</u>
-
 # Code
 
 ```java
