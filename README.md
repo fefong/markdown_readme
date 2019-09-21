@@ -94,11 +94,11 @@ public static void main(String[] args) {
 }
 ```
 
->   ```java
+>   \`\`\`java
 >   public static void main(String[] args) {
 >	    //TODO
->   }
->   ```
+>	}
+>   \`\`\`
 
 # Mail
 <mail@mail.com>
