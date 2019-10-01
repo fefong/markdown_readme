@@ -54,6 +54,17 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 >		   * Item 3.1;
 >			  * Item 3.1.1;
 
+## List CheckBox
+
+ - [ ] Item A
+ - [x] Item B
+ - [x] Item C
+ 
+>     - [ ] Item A
+>     - [x] Item B
+>     - [x] Item C
+
+
 # Link
 [Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
 
@@ -86,7 +97,12 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.**
 
     **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum, nibh eu commodo posuere, ligula ante dictum neque, vitae pharetra mauris mi a velit.**
+    
+### Strikethrough
+~~strikethrough text~~
 
+    ~~strikethrough text~~
+    
 # Code
 
 ```java
@@ -117,3 +133,8 @@ public static void main(String[] args) {
 >\|---|---|---|<br>
 >\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
 >\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
+
+
+# Markdown Editor
+
+[StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
