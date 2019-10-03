@@ -74,7 +74,28 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 
 		[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
 
+## Anchor links
+[Markdown - Titles](#Titles)
 
+[Markdown - Paragraph](#Paragraph)
+
+[Markdown - Link](#Link)
+
+[Markdown - List](#List)
+
+[Markdown - Image](#Image--GIF)
+
+[Markdown - StyleText](#Style-Text)
+
+[Markdown - Code](#Code)
+
+[Markdown - Email](#Email)
+
+[Markdown - Table](#Table)
+
+[Markdown - Markdown Editor](#Markdown-Editor)
+
+		[Markdown - Link](#Link)
 
 # Blockquote
 > Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny
