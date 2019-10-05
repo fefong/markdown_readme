@@ -95,6 +95,8 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 
 [Markdown - Escape Characters](#Escape-Characters)
 
+[Markdown - Emoji](#Emoji)
+
 [Markdown - Markdown Editor](#Markdown-Editor)
 
 		[Markdown - Link](#Link)
@@ -171,7 +173,7 @@ public static void main(String[] args) {
 >\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
 >\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
 
-## Align Right
+## Align Left
 
 |Column 1|Column 2|Column 3|
 |:---|:---|:---|
@@ -183,7 +185,7 @@ public static void main(String[] args) {
 >\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
 >\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
 
-## Align Left
+## Align Right
 
 |Column 1|Column 2|Column 3|
 |---:|---:|---:|
