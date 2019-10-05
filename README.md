@@ -213,6 +213,16 @@ _   underscore
 !   exclamation mark
 ```
 
+# Emoji
+
+* [Emoji](emoji.md#emoji);
+	* [People](emoji.md#people) - (:blush: ; :hushed: ; :shit:);
+	* [Nature](emoji.md#nature) - (:sunny: ; :snowman: ; :dog:);
+	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:);
+	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:);
+	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:);
+	
+
 # Markdown Editor
 
 [StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
