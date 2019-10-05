@@ -1,6 +1,14 @@
 Emoji
 =================
 
+Emojis to _tasks & projects_
+
+| Emoji | Description | Markdown
+|:---:|:---|:---:|
+| ✔ | Check | ```:heavy_check_mark:``` |
+| ❌ | Error | ```:x:``` |
+| ❗ | Exclamation | ```:heavy_exclamation_mark:```|
+| ⚠ | Warning | ```:warning:``` |
 
 ## People
 
