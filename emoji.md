@@ -327,3 +327,23 @@ Emojis to _tasks & projects_
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 
+
+# Kaomoji
+
+| emoji | emoji | emoji | emoji |
+|:---:|:---:|:---:|:---:|
+| ```(⊙﹏⊙)``` | ```c( ＿ ＿)ノ``` | ```¯\_(ツ)_/¯``` | ```☜(ﾟヮﾟ☜)``` | ```༼ つ ◕_◕ ༽つ``` |
+| ```╰（‵□′）╯``` | ```o((⊙﹏⊙))o.``` | ```←_←``` | ```(⊙ˍ⊙)``` |
+
+# Special Symbols
+
+| Symbols | Symbols | Symbols | Symbols |
+|:---:|:---:|:---:|:---:|
+| ∆   | ∇   | ∑   | √  |
+| ≥   | ≦   | ≺  | ≻  |
+| ↖   | ↗   | ↘  | ↙  |
+| ←   | →   | ↑   | ↓  |
+| ©   | ℃  | ℉   | ϴ  |
+| ϐ   | ϕ   | ⁿ   | ↆ  |
+| ∴   | ∞   | ⊿   | ⊷ |
+
