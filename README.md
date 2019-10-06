@@ -1,7 +1,6 @@
 Getting started with Markdown
 =============================
 
-
 # Titles 
 
 ### Title 1
@@ -223,8 +222,18 @@ _   underscore
 	* [Objects](emoji.md#objects) - (:file_folder: ; :computer: ; :bell:);
 	* [Places](emoji.md#places) - (:rainbow: ; :warning: ; :statue_of_liberty:);
 	* [Symbols](emoji.md#symbols) - (:cancer: ; :x: ; :shipit:);
+* [Kaomoji](emoji.md#kaomoji);
+* [Special-Symbols](emoji.md#special-symbols);
 	
 
 # Markdown Editor
 
 [StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
+
+# Some links for more in depth learning
+
+:page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
+
+:page_facing_up: [Oficial](https://daringfireball.net/projects/markdown/)
+
+
