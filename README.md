@@ -1,6 +1,33 @@
 Getting started with Markdown
 =============================
 
+
+- [Getting started with Markdown](#getting-started-with-markdown)
+- [Titles](#titles)
+- [Paragraph](#paragraph)
+- [List](#list)
+	- [List CheckBox](#list-checkbox)
+- [Link](#link)
+	- [Anchor links](#anchor-links)
+- [Blockquote](#blockquote)
+- [Image | GIF](#image--gif)
+- [Style Text](#style-text)
+	- [Italic](#italic)
+	- [Bold](#bold)
+	- [Strikethrough](#strikethrough)
+- [Code](#code)
+- [Email](#email)
+- [Table](#table)
+	- [Table Align](#table-align)
+    	- [Align Center](#align-center)
+    	- [Align Left](#align-left)
+    	- [Align Right](#align-right)
+- [Escape Characters](#escape-characters)
+- [Emoji](#emoji)
+- [Markdown Editor](#markdown-editor)
+- [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
+
+
 # Titles 
 
 ### Title 1
@@ -74,27 +101,8 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 		[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
 
 ## Anchor links
-[Markdown - Titles](#Titles)
 
-[Markdown - Paragraph](#Paragraph)
-
-[Markdown - Link](#Link)
-
-[Markdown - List](#List)
-
-[Markdown - Image](#Image--GIF)
-
-[Markdown - StyleText](#Style-Text)
-
-[Markdown - Code](#Code)
-
-[Markdown - Email](#Email)
-
-[Markdown - Table](#Table)
-
-[Markdown - Escape Characters](#Escape-Characters)
-
-[Markdown - Emoji](#Emoji)
+[Markdown - Summary](#Getting-started-with-Markdown)
 
 [Markdown - Markdown Editor](#Markdown-Editor)
 
