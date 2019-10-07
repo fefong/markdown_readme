@@ -27,6 +27,7 @@ Getting started with Markdown
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
 
+----------------------------------
 
 # Titles 
 
