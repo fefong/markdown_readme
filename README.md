@@ -24,6 +24,7 @@ Getting started with Markdown
     	- [Align Right](#align-right)
 - [Escape Characters](#escape-characters)
 - [Emoji](#emoji)
+- [Shields Badges](#Shields-Badges)
 - [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
 
@@ -234,6 +235,14 @@ _   underscore
 * [Kaomoji](emoji.md#kaomoji);
 * [Special-Symbols](emoji.md#special-symbols);
 	
+
+# Shields Badges
+
+:warning: _We are not responsible for this site_
+
+See more: [https://shields.io/](https://shields.io/)
+
+![Markdown](https://img.shields.io/badge/markdown-project-red)
 
 # Markdown Editor
 
