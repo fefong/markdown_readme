@@ -49,8 +49,9 @@ normal text <sup>superscripted</sup> normal text
 normal text <sup>superscripted</sup> normal text
 ```
 
-### Table - rowspan
+## Table
 
+### Table - _rownspan_
 <table>
   <tr>
     <th>column 1</th>
@@ -87,8 +88,7 @@ normal text <sup>superscripted</sup> normal text
 </table>
 ```
 
-### Table - colspan
-
+### Table - _colspan_
 <table>
   <tr>
     <th>column 1</th>
