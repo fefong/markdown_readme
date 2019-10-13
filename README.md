@@ -151,6 +151,8 @@ public static void main(String[] args) {
 >	}<br>
 >   \`\`\`<br>
 
+See more [Markdown Extras - Style Text](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#style-text)
+
 # Email
 <email@email.com>
 
@@ -206,6 +208,9 @@ public static void main(String[] args) {
 >\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
 >\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
 
+See more [Markdown Extras - Table](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#table)
+* [Rownspan](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#table---rowspan)
+* [Colspan](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#table---colspan)
 
 # Escape Characters
 
