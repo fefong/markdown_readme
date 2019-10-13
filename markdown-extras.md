@@ -51,7 +51,7 @@ normal text <sup>superscripted</sup> normal text
 
 ## Table
 
-### Table - _rownspan_
+### Table - _rowspan_
 <table>
   <tr>
     <th>column 1</th>
