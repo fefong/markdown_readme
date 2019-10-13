@@ -119,6 +119,8 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
     
     ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+    
+See more [Markdown Extras - Image Align](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#image-align)    
 
 # Style Text
 ### Italic
