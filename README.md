@@ -4,8 +4,8 @@ Getting started with Markdown
 
 - [Getting started with Markdown](#getting-started-with-markdown)
 - [Titles](#titles)
-- [Paragraph](#paragraph)
-- [List](#list)
+- ### [Paragraph](#paragraph)
+- ### [List](#list)
 	- [List CheckBox](#list-checkbox)
 - [Link](#link)
 	- [Anchor links](#anchor-links)
@@ -25,7 +25,7 @@ Getting started with Markdown
 - [Escape Characters](#escape-characters)
 - [Emoji](#emoji)
 - [Shields Badges](#Shields-Badges)
-- [Markdown Editor](#markdown-editor)
+- ### [Markdown Editor](#markdown-editor)
 - [Some links for more in depth learning](#some-links-for-more-in-depth-learning)
 
 ----------------------------------
