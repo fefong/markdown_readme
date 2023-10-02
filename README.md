@@ -260,7 +260,7 @@ See more: [https://shields.io/](https://shields.io/)
 
 :page_facing_up: [Markdown Extras](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#markdown---extras)
 
-:page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
+:page_facing_up: [Wikipedia - Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 :page_facing_up: [Oficial](https://daringfireball.net/projects/markdown/)
 
